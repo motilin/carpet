@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/carpet/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/carpet/static/js/main.36608f67.chunk.js",
-    "main.js.map": "/carpet/static/js/main.36608f67.chunk.js.map",
+    "main.css": "/carpet/static/css/main.9da24774.chunk.css",
+    "main.js": "/carpet/static/js/main.8ab6782c.chunk.js",
+    "main.js.map": "/carpet/static/js/main.8ab6782c.chunk.js.map",
     "runtime-main.js": "/carpet/static/js/runtime-main.46f17fc9.js",
     "runtime-main.js.map": "/carpet/static/js/runtime-main.46f17fc9.js.map",
-    "static/js/2.390597b3.chunk.js": "/carpet/static/js/2.390597b3.chunk.js",
-    "static/js/2.390597b3.chunk.js.map": "/carpet/static/js/2.390597b3.chunk.js.map",
+    "static/js/2.7feae7fc.chunk.js": "/carpet/static/js/2.7feae7fc.chunk.js",
+    "static/js/2.7feae7fc.chunk.js.map": "/carpet/static/js/2.7feae7fc.chunk.js.map",
     "static/js/3.e265f9f7.chunk.js": "/carpet/static/js/3.e265f9f7.chunk.js",
     "static/js/3.e265f9f7.chunk.js.map": "/carpet/static/js/3.e265f9f7.chunk.js.map",
     "index.html": "/carpet/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/carpet/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.390597b3.chunk.js.LICENSE.txt": "/carpet/static/js/2.390597b3.chunk.js.LICENSE.txt"
+    "static/css/main.9da24774.chunk.css.map": "/carpet/static/css/main.9da24774.chunk.css.map",
+    "static/js/2.7feae7fc.chunk.js.LICENSE.txt": "/carpet/static/js/2.7feae7fc.chunk.js.LICENSE.txt",
+    "static/media/hordus1.a95dd085.jpeg": "/carpet/static/media/hordus1.a95dd085.jpeg",
+    "static/media/hordus2.7b3ff907.jpeg": "/carpet/static/media/hordus2.7b3ff907.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.46f17fc9.js",
-    "static/js/2.390597b3.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.36608f67.chunk.js"
+    "static/js/2.7feae7fc.chunk.js",
+    "static/css/main.9da24774.chunk.css",
+    "static/js/main.8ab6782c.chunk.js"
   ]
 }
